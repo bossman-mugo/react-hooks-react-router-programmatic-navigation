@@ -33,6 +33,7 @@ function Navbar({ setIsLoggedIn }) {
       >
         Home
       </NavLink>
+      
       <NavLink
         to="/about"
         exact
